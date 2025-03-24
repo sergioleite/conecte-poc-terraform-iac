@@ -1,7 +1,0 @@
-storage_account_name = "rgrethinkedgeb97f"
-container_name       = "app-package-edge-learningrocks-b2c-13beb3d"
-key                  = "terraform-state"
-use_oidc             = true
-tenant_id            = "836a8026-e42b-4db1-9e4c-8383a10e491c"
-subscription_id      = "2a0959d1-02b9-43a4-96bc-c89e26dfd94d"
-access_key           = "VunxTEECcu/mTBl+XjQVSkeqeAAQ7Ep0cYu/6jHGN6UBrDMB0rxoy7gMcYTylpjMZ8g0twllcgtK+AStv+ZLhQ=="

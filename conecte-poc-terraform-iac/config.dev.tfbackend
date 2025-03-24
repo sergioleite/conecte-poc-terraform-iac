@@ -1,7 +1,0 @@
-storage_account_name = "cpdevstgterraform001"
-container_name       = "devedgeform"
-key                  = "dev.edge.tfstate"
-use_oidc             = true
-tenant_id            = "446821bc-0438-4faf-86f2-1d7a84304e2c"
-subscription_id      = "c42ecb1a-8fb6-4310-a5c0-1e87da11d2e5"
-access_key           = "MYfF5/KTM2rRTkrM47D1r7WAkOir+oNi21ickhdAxCCX8QS0N85aZaeBX/9aYhXXPFN0m35DgJo/+ASts8IzZw=="
